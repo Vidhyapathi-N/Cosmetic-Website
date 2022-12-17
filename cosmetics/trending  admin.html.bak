@@ -1,0 +1,109 @@
+<html>
+<head>
+<title>ADMIN</title>
+<meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  
+  
+<style>
+ul{
+ list-style-type:none;
+padding:0;
+margin:0;
+ width:10%;
+ background-color:#555;
+ color:white;
+ height:80%;
+ float:left;
+}
+
+li a{
+display:block;
+color:white;
+padding:8px 16px;
+text-decoration:none;
+}
+li .active{
+background-color:#04AA6D;
+color:white;
+}
+li a:hover:not(.active){
+background-color:#555;
+color:white;
+}
+.test{
+width:70%;
+float:left;
+}
+</style>
+
+</head>
+<body>
+<ul>
+<li><a href="file:///E:/admin.html" class="active">Number of ORDERS</li>
+<li class="active"><a href="file:///E:/brands%20admin.html" >BRANDS</li>
+<li class="active"><a href="" >TRENDING PRODUCTS</li>
+</ul>
+
+<div class="test">
+<div class="container">
+
+ <h1 style="text-align:center;background-color:black;color:white">TRENDING PRODUCTS</h1>
+<u><h1 style="text-align:center">BEAUTY WITH TRENDING</h1></u>
+<h2 style="text-align:center">--MOST TRENDING--</h2>
+<h2 style="text-align:center;color:#800000">LAKME kajal</h2>
+<h2 style="text-align:center;color:#800000">Anastasia</h2>
+<h2 style="text-align:center;color:#800000">Virture</h2>
+<h2 style="text-align:center;color:#800000">NYKA BRAND</h2>
+<h2 style="text-align:center;color:#800000">mCaffine</h2>
+<h2 style="text-align:center;color:#800000">Olaplex</h2>
+  
+</body>
+
+
+
+</html>
+
+
+
+
+
+
+</head>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</html>

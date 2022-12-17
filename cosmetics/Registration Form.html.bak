@@ -1,0 +1,83 @@
+<html>
+<head>
+<title>Registration form</title>
+</head>
+<body>
+<script>
+function validate()
+    { 
+	    var name=document.getElementById("name").value;
+        var password=document.getElementById("pass").value;
+        if(name==null||name=="")
+		    {
+			 alert("enter the name");
+             return false;
+			 }else if(pass.length<6)
+			{
+            alert("password must be atleast 6 character");
+			return false;
+			}
+
+}
+
+</script>
+
+
+
+<form>
+<h1 style="text-align:center;color:black">REGISTRATION FORM</h1>
+<fieldset>
+<label for="name">First Name</label>
+<input type="text" name="name" id="name"><br><br>
+<label for="name">Middle Name</label>
+<input type="text" name="name" id="name"><br><br>
+<label for="name">Last Name</label>
+<input type="text" name="name" id="name"><br><br>
+<label for="dob">DOB</label>
+<input type="date" name="DOB" id="DOB"><br><br>
+<label for="email">Enter your email</label>
+<input type="email" name="mail" id="mail"><br><br>
+<label for="password">Enter your Password</label>
+<input type="password" name="pass" id="pass"><br><br>
+<label for="password">Conform your Password</label>
+<input type="password" name="pass" id="pass"><br><br>
+<label>Select your gender</label><br>
+<label for="male">MALE</label>
+<input type="radio" name="gender" id="male"><br><br>
+<label for="female">FEMALE</label>
+<input type="radio" name="gender" id="female"><br><br>
+<label for="others">OTHERS</label>
+<input type="radio" name="gender" id="others"><br><br>
+<label>Select Your Department</label>
+<select id="depart" name="depart">
+<option value="cse">CSE</option>
+<option value="ece">ECE</option>
+<option value="eee">EEE</option>
+<option value="civil">CIVIL</option>
+<option value="bme">BME</option>
+<option value="chemical">CHEMICAL</option>
+<option value="mech">MECHANICAL</option>
+</select><br><br>
+<label for="community">Community</label>
+<input type="text" name="community" id="community"><br><br>
+<label>ADDRESS</label>
+<textarea></textarea>
+
+<center><input type="submit" name="sub" id="sub" value="SUBMIT" onclick="validate()"</center>
+
+</fieldset>
+
+
+</form>
+
+
+
+
+
+
+
+
+</body>
+
+
+</html>

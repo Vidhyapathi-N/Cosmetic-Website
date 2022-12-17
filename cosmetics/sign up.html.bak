@@ -1,0 +1,157 @@
+<html>
+<head>
+<title>SIGN UP</title>
+<meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+   
+   <style>
+  .bg{
+  background-color:gray;
+  width:500px;
+  height:800px;
+  }
+  
+  </style>
+</head>
+<body style="background-color:pink">
+<script>
+function validate()
+    { 
+	    var name=document.getElementById("name").value;
+        var password=document.getElementById("pass").value;
+        if(name==null||name=="")
+		    {
+			 alert("enter the name");
+             return false;
+			 }else if(password.length<6)
+			{
+            alert("password must be atleast 6 character");
+			return false;
+			}
+
+}
+
+</script>
+
+<nav class="navbar navbar-inverse" style="padding:30px">
+  <div class="container">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="#" style="font-size:70px;padding:40px">COSMO TRENDS</a>
+    </div><br>
+	
+   
+	<ul class="nav navbar-nav nav-right">
+       <li><a href="#"><span class="glyphicon glyphicon-log-in"></span>LOGIN</a></li>
+	   <li class="active"><a href="#"><span class="glyphicon glyphicon-user"></span>ADMIN</a></li>
+</ul>
+	 
+  </div>
+
+</nav>
+<h1 style="text-align:center;font-family:serif">REGISTRATION FORM</h1>
+<center><div class="bg">
+<form  action="/action_page.php" style="padding:60px">
+  <div class="form-group">
+    <label for="name">NAME:</label>
+    <input type="name" class="form-control" id="name" placeholder="ENTER YOUR NAME">
+  </div><br>
+  <div class="form-group">
+    <label for="email">Email address:</label>
+    <input type="email" class="form-control" id="email" placeholder="ENTER YOUR EMAIL">
+  </div><br>
+  <div class="form-group">
+    <label for="pwd">Password:</label>
+    <input type="password" class="form-control" id="pwd" placeholder="ENTER YOUR PASSWORD">
+  </div>
+  <div class="form-group">
+    <label for="pwd">Conform your Password:</label>
+    <input type="pwd" class="form-control" id="pwd" placeholder="CONFORM YOUR PASSWORD">
+  </div>
+  <div class="form-group"> 
+    <label>Select your gender</label>
+    <input type="radio" name="gender" class="form-control" id="male">
+	MALE
+    <input type="radio" name="gender" class="form-control" id="female">
+	FEMALE
+    <input type="radio" name="gender" class="form-control" id="others">
+	OTHERS
+  </div>
+  <div class="form-group">
+     ADDRESS
+    <textarea placeholder="ADDRESS"></textarea>
+  </div>
+  <div class="checkbox">
+    <label><input type="checkbox"> Remember me</label>
+  </div>
+  <center><button type="submit" class="btn btn-default"><a href="file:///E:/login.html">Submit</a></button></center>
+</form>
+</div>
+</center>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</html>

@@ -1,0 +1,179 @@
+<html>
+<head>
+<title>CONTACT </title>
+<meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  
+  
+  <style>
+  .bg{
+  background-color:gray;
+  width:400px;
+  height:600px;
+  }
+  
+  </style>
+</head>
+<body style="background-color:pink">
+<nav class="navbar navbar-inverse">
+  <div class="container">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="#" style="font-size:70px;padding:40px">COSMO TRENDS</a>
+    </div>
+    <ul class="nav navbar-nav">
+      <li><a href="file:///E:/cosmetics%20home.html#">Home</a></li>
+      <li><a href="file:///E:/brands.html">BRANDS</a></li>
+	  <li><a href="file:///E:/trending.html">TRENDING<li>
+      <li class="file:///E:/beauty%20tips.html#"><a href="#">BEAUTY TIPS</a></li>
+	  <li class="active"><a href="">CONTACT</a></li>
+	  <li><a href="file:///E:/feedback.html?mail=&pass=&sub=SUBMIT">FEEDBACK</a></li>
+	  </ul>
+	   <form class="navbar-form navbar-left" action="/action_page.php">
+      <div class="form-group">
+	  <span class="glyphicon glyphicon-search" style="color:white"></span>
+        <input type="text" class="form-control" placeholder="Search">
+      </div>
+    </form>
+	<ul class="nav navbar-nav nav-right">
+	
+	   <li><a href="file:///E:/admin.html"><span class="glyphicon glyphicon-user"></span>ADMIN</a></li>
+	  
+  </div>
+
+</nav>
+<img src="gift store.png"width="100%" height="60%">
+<h1 style="text-align:center">CONTACT US</h1>
+<center><p>We are always delighted to hear from you. Please contact us by any of the following methods:<br>
+
+COSMO TRENDZ<br>
+
+C/O Quest Retail Pvt. Ltd.<br>
+
+7th Floor, Infinity Tower - A<br>
+
+DLF Cyber City, DLF Phase-II<br>
+
+Gurgaon – 122002<br>
+
+Landline:1800-313-9293<br>
+
+Customer Care: +91-98765432<br>
+
+Email: support@cosmo trenz.com<br>
+
+<h3 style="text-align:center">STORE LOCATOR</h3>
+Use our store locator to find the location of your nearest store.<br>
+<br>
+
+<h3 style="text-align:center">PLACE YOUR ORDER</h3>
+<center><div class="bg">
+<form  action="/action_page.php" style="padding:60px">
+  <div class="form-group">
+    NAME
+    <input type="name" class="form-control" id="name" placeholder="ENTER YOUR NAME">
+  </div><br>
+  <div class="form-group">
+    EMAIL
+    <input type="email" class="form-control" id="email" placeholder="ENTER YOUR EMAIL">
+  </div><br>
+  
+  <div class="form-group">
+    ENTER YOUR ADDRESS
+    <textarea placeholder="ADDRESS"></textarea>
+  </div><br>
+
+  <div class="form-group">
+    <label>Select Your FAVOURITE BRAND</label>
+    <select id="brand" name="brand">
+    <option value="lakme">LAKME</option>
+    <option value="huda">HUDA</option>
+    <option value="olya">OLYA</option>
+    <option value="loreal">L'OREAL</option>
+    <option value="mcaffine">mCAFFINE</option>
+    <option value="nivea">NIVEA</option>
+    <option value="mac">MAC</option>
+	<option value="others">OTHERS</option>
+    </select>
+  </div>
+  <div class="form-group">
+    <label>Select Your NECESSARY</label><br>
+    <select id="brand" name="brand">
+    <option value="lakme">Kajal</option>
+    <option value="huda">Lipstick</option>
+    <option value="olya">Eyelashes</option>
+    <option value="loreal">Foundation</option>
+    <option value="mcaffine">Combact</option>
+    <option value="nivea">Face wash</option>
+    <option value="mac">Skin care</option>
+	<option value="others">Body lotions</option>
+    </select>
+  </div>
+  
+  <div class="checkbox">
+    <label><input type="checkbox"> Remember me</label>
+  </div>
+  <center><button type="submit" class="btn btn-default"><a href="file:///E:/cosmetics%20home.html">Submit</a></button>
+</form>
+
+
+</div>
+</center>
+
+
+
+
+
+<center><footer style="background-color:black;color:white">
+<div class="demo" style="width:33%">
+<u><h2><b>COSMO TRENDZ</b></h2><br></u>
+<p>"A women's greatest asset is her beauty"
+Never lose an opportunity of seeing anything beautiful,<br>
+for beauty is God's handwriting</p>
+</div>
+<div class="classic" style="width:33%">
+<u><h2>CUSTOMER CARE</h2></u>
+<p>Order cancellation<br>FAQ<br>Terms and conditions
+</p>
+</div>
+<div class="micro" style="width:33%">
+<u><b><h2>CONTACT</h2></b></u>
+<p>Email:support@cosmo trendz.com<br>
+Landline:1800-313-9293<br>
+Ph no:98765432<br>
+Mon - Sat , 9 am to 7 pm</p>
+</div>
+</footer>
+
+
+
+
+
+
+
+</body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</html>

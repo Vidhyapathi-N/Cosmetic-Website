@@ -1,0 +1,164 @@
+<html>
+<head>
+<title>ADMIN</title>
+<meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  
+  
+<style>
+ul{
+ list-style-type:none;
+padding:0;
+margin:0;
+ width:10%;
+ background-color:#555;
+ color:white;
+ height:80%;
+ float:left;
+}
+
+li a{
+display:block;
+color:white;
+padding:8px 16px;
+text-decoration:none;
+}
+li .active{
+background-color:#04AA6D;
+color:white;
+}
+li a:hover:not(.active){
+background-color:#555;
+color:white;
+}
+.test{
+width:70%;
+float:left;
+}
+</style>
+
+</head>
+<body>
+<ul>
+<li><a href="" class="active">Number of ORDERS</li>
+<li><a href="file:///E:/Project/num%20of%20room.html" >BRANDS</li>
+<li><a href="" >TRENDING PRODUCTS</li>
+</ul>
+
+<div class="test">
+<div class="container">
+
+ <h1 style="text-align:center;background-color:black;color:white">Number of Orders</h1>
+
+  <div class="row">
+   
+   <div class="col-lg-3">
+     <div class="img-thumbmails">
+  <img src="lakme brand3.png" width="70%">
+  <center><p style="background-color:#555;color:white">LAKME BEST EDITION-<mark>$600</mark></p></center>
+  <div class="caption">
+    </div>
+    </div>
+    </div>
+   <div class="col-lg-3">
+     <div class="img-thumbmails">
+  <img src="nivea brand3.png"  width="70%">
+  <center><p style="background-color:#555;color:white">NIVEA MILK SHINE-<mark>$400</mark></p></center>
+  <div class="caption">
+    </div>
+    </div>
+    </div>
+   <div class="col-lg-3">
+     <div class="img-thumbmails">
+  <img src="nivea brand2.png" width="70%">
+  <center><p style="background-color:#555;color:white">NIVEA MILK SHINE-<mark>$400</mark></p></center>
+  <div class="caption">
+    </div>
+    </div>
+    </div>
+   <div class="col-lg-3">
+     <div class="img-thumbmails">
+  <img src="mac brand2.png"  width="70%">
+  <center><p style="background-color:#555;color:white">MAC LATEST EDITION-<mark>$550</mark></p></center>
+  <div class="caption">
+    </div>
+    </div>
+    </div>
+  <div class="col-lg-3">
+  <div class="img-thumbmails">
+  <img src="mac brand3.png"  width="70%">
+  <center><p style="background-color:#555;color:white">MAC LATEST-<mark>$2050</mark></p></center>
+  <div class="caption">
+    </div>
+    </div>
+    </div>
+	<div class="col-lg-3">
+  <div class="img-thumbmails">
+  <img src="lakme brand2.png"  width="70%">
+  <center><p style="background-color:#555;color:white">LAKME LATEST-<mark>$350</mark></p></center>
+  <div class="caption">
+    </div>
+    </div>
+    </div>
+	<div class="col-lg-3">
+  <div class="img-thumbmails">
+  <img src="nivea brand5.png"  width="70%">
+  <center><p style="background-color:#555;color:white">NIVEA LATEST-<mark>$550</mark></p></center>
+  <div class="caption">
+    </div>
+    </div>
+    </div>
+	<div class="col-lg-3">
+  <div class="img-thumbmails">
+  <img src="huda brand3.png"  width="70%">
+  <center><p style="background-color:#555;color:white">HUDA LATEST-<mark>$650</mark></p></center>
+  <div class="caption">
+    </div>
+    </div>
+    </div>
+</body>
+
+
+
+</html>
+
+
+
+
+
+
+</head>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</html>

@@ -1,0 +1,267 @@
+<html>
+<head>
+<title>BRANDS</title>
+<meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+<body>
+<nav class="navbar navbar-inverse">
+  <div class="container">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="#" style="font-size:70px;padding:40px">COSMO TRENDS</a>
+    </div>
+    <ul class="nav navbar-nav">
+      <li ><a href="file:///E:/cosmetics%20home.html#">Home</a></li>
+	  <li class="active"><a href="">BRANDS</a></li> 
+      </li>
+      <li><a href="file:///E:/trending.html">TRENDING</a></li>
+      <li><a href="file:///E:/beauty%20tips.html#">BEAUTY TIPS</a></li>
+	  <li><a href="file:///E:/contact.html">CONTACT</a></li>
+	  <li><a href="file:///E:/feedback.html?mail=&pass=&sub=SUBMIT">FEEDBACK</a></li>
+	  </ul>
+	   <form class="navbar-form navbar-left" action="/action_page.php">
+      <div class="form-group">
+	  <span class="glyphicon glyphicon-search" style="color:white"></span>
+        <input type="text" class="form-control" placeholder="Search">
+      </div>
+      <button type="submit" class="btn btn-default">Submit</button>
+    </form>
+	<ul class="nav navbar-nav nav-right">
+	   
+	   <li><a href="file:///E:/admin.html"><span class="glyphicon glyphicon-user"></span>ADMIN</a></li>
+	  
+  </div>
+
+</nav> 
+<img src="lakme11.png"width="100%">
+<h1 style="text-align:center;font-family:algerian">LAKME</h1>
+<div class="container">
+<div class="row">
+    <div class="col-lg-3">
+	    <div class="img-thumbnail">
+    <img src="brand1.png" width="70%">
+    <div class="caption">
+      <p><center>Lip Glass-<mark>$250<mark></center></p>
+	</div>
+	    </div>
+	</div>	
+
+    <div class="col-lg-3">
+	    <div class="img-thumbnail">
+    <img src="brand2.png" width="80%" >
+      <div class="caption">
+      <p>LAKME LIMITED EDITION-<mark>$300</mark></p>
+    </div>
+	    </div>
+	</div>	
+	
+	<div class="col-lg-3">
+	    <div class="img-thumbnail">
+    <img src="lakme brand1.png" width="80%" >
+      <div class="caption">
+      <p>LAKME LIMITED EDITION-<mark>$400</mark></p>
+    </div>
+	    </div>
+	</div>
+
+    <div class="col-lg-3">
+	    <div class="img-thumbnail">
+    <img src="lakme brand2.png" width="80%" >
+      <div class="caption">
+      <p>LAKME BEST EDITION-<mark>$600</mark></p>
+    </div>
+	    </div>
+	</div>	
+</div>
+</div><hr><hr>
+<h1 style="text-align:center;font-family:algerian">NIVEA</h1>	
+<img src="nivea1.png" width="100%">	
+<div class="container">
+<div class="row">
+    <div class="col-lg-3">
+	    <div class="img-thumbnail">
+    <img src="nivea brand1.png" width="70%">
+    <div class="caption">
+      <p><center>NIVEA LIMITED EDITION-<mark>$250</mark></center></p>
+	</div>
+	    </div>
+	</div>	
+
+    <div class="col-lg-3">
+	    <div class="img-thumbnail">
+    <img src=" nivea brand2.png" width="80%" >
+      <div class="caption">
+      <p>NIVEA BEST EDITION-<mark>$300</mark></p>
+    </div>
+	    </div>
+	</div>	
+	
+	<div class="col-lg-3">
+	    <div class="img-thumbnail">
+    <img src="nivea brand3.png" width="80%" >
+      <div class="caption">
+      <p>NIVEA MILK SHINE-<mark>$400</mark></p>
+    </div>
+	    </div>
+	</div>
+
+    <div class="col-lg-3">
+	    <div class="img-thumbnail">
+    <img src="nivea brand4.png" width="80%" >
+      <div class="caption">
+      <p>NIVEA SHINE EDITION-<mark>$600</mark></p>
+    </div>
+	    </div>
+	</div>	
+	
+	<div class="col-lg-3">
+	    <div class="img-thumbnail">
+    <img src="nivea brand5.png" width="80%" >
+      <div class="caption">
+      <p>NIVEA SHINE EDITION-<mark>$500</mark></p>
+    </div>
+	    </div>
+	</div>
+
+    <div class="col-lg-3">
+	    <div class="img-thumbnail">
+    <img src="nivea brand6.png" width="80%" >
+      <div class="caption">
+      <p>NIVEA MILK SHINE-<mark>$400</mark></p>
+    </div>
+	    </div>
+	</div>	
+
+    <div class="col-lg-3">
+	    <div class="img-thumbnail">
+    <img src="nivea brand7.png" width="80%" >
+      <div class="caption">
+      <p>NIVEA SHINE MILK-<mark>$700</mark></p>
+    </div>
+	    </div>
+	</div>	
+    <div class="col-lg-3">
+	    <div class="img-thumbnail">
+    <img src="nivea brand8.png" width="80%" >
+      <div class="caption">
+      <p>NIVEA LIMITED EDITION-<mark>$300</mark></p>
+    </div>
+	    </div>
+	</div>		
+</div>
+</div><hr><hr>
+<h1 style="text-align:center;font-family:algerian">MAC</h1>
+<img src="mac brand0.png" width="100%">
+<div class="container">
+<div class="row">
+    <div class="col-lg-3">
+	    <div class="img-thumbnail">
+    <img src="mac brand1.png" width="70%">
+    <div class="caption">
+      <p><center>MAC EXCLUSIVE-<mark>$1250</mark></center></p>
+	</div>
+	    </div>
+	</div>	
+	<div class="col-lg-3">
+	    <div class="img-thumbnail">
+    <img src="mac brand2.png" width="70%">
+    <div class="caption">
+      <p><center>MAC BEST EXCLUSIVE-<mark>$1050</mark></center></p>
+	</div>
+	    </div>
+	</div>	
+	<div class="col-lg-3">
+	    <div class="img-thumbnail">
+    <img src="mac brand3.png" width="70%">
+    <div class="caption">
+      <p><center>MAC LATEST-<mark>$2050</mark></center></p>
+	</div>
+	    </div>
+	</div>	
+    <div class="col-lg-3">
+	    <div class="img-thumbnail">
+    <img src="mac brand4.png" width="70%">
+    <div class="caption">
+      <p><center>MAC EXCLUSIVE CREAM-<mark>$1150</mark></center></p>
+	</div>
+	    </div>
+	</div>	
+</div>
+</div><hr><hr>
+<h1 style="text-align:center;font-family:algerian">HUDA BEAUTY</h1>	
+<img src="huda brand0.png" width="100%">	
+<div class="container">
+<div class="row">
+    <div class="col-lg-3">
+	    <div class="img-thumbnail">
+    <img src="huda brand1.png" width="70%">
+    <div class="caption">
+      <p><center>HUDA LIMITED EDITION-<mark>$250</mark></center></p>
+	</div>
+	    </div>
+	</div>	
+
+    <div class="col-lg-3">
+	    <div class="img-thumbnail">
+    <img src=" huda brand2.png" width="80%" >
+      <div class="caption">
+      <p>HUDA BEST EDITION-<mark>$300</mark></p>
+    </div>
+	    </div>
+	</div>	
+	
+	<div class="col-lg-3">
+	    <div class="img-thumbnail">
+    <img src="huda brand3.png" width="80%" >
+      <div class="caption">
+      <p>HUDA MILK SHINE-<mark>$400</mark></p>
+    </div>
+	    </div>
+	</div>
+
+    <div class="col-lg-3">
+	    <div class="img-thumbnail">
+    <img src="huda brand4.png" width="80%" >
+      <div class="caption">
+      <p>HUDA SHINE EDITION-<mark>$600</mark></p>
+    </div>
+	    </div>
+	</div>
+</div>
+</div><hr>    
+<center><footer style="background-color:black;color:white">
+<div class="demo" style="width:33%">
+<u><h2><b>COSMO TRENDZ</b></h2><br></u>
+<p>"A women's greatest asset is her beauty"
+Never lose an opportunity of seeing anything beautiful,<br>
+for beauty is God's handwriting</p>
+</div>
+<div class="classic" style="width:33%">
+<u><h2>CUSTOMER CARE</h2></u>
+<p>Order cancellation<br>FAQ<br>Terms and conditions
+</p>
+</div>
+<div class="micro" style="width:33%">
+<u><b><h2>CONTACT</h2></b></u>
+<p>Email:support@cosmo trendz.com<br>
+Landline:1800-313-9293<br>
+Ph no:98765432<br>
+Mon - Sat , 9 am to 7 pm</p>
+</div>
+</footer>
+
+
+
+
+</body>
+
+
+
+
+
+
+
+</html>

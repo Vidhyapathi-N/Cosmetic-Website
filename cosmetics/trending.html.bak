@@ -1,0 +1,136 @@
+<html>
+<head>
+<title>TRENDING</title>
+<meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+</head>
+<body style="background-color:pink">
+<nav class="navbar navbar-inverse">
+  <div class="container">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="#" style="font-size:70px;padding:40px">COSMO TRENDS</a>
+    </div>
+    <ul class="nav navbar-nav">
+      <li><a href="file:///E:/cosmetics%20home.html#">Home</a></li>
+      <li><a href="file:///E:/brands.html">BRANDS</a></li>
+	  <li class="active"><a href="">TRENDING<li>
+      <li><a href="file:///E:/beauty%20tips.html#">BEAUTY TIPS</a></li>
+	  <li><a href="file:///E:/contact.html">CONTACT</a></li>
+	  <li><a href="file:///E:/feedback.html?mail=&pass=&sub=SUBMIT">FEEDBACK</a></li>
+	  </ul>
+	   <form class="navbar-form navbar-left" action="/action_page.php">
+      <div class="form-group">
+	  <span class="glyphicon glyphicon-search" style="color:white"></span>
+        <input type="text" class="form-control" placeholder="Search">
+      </div>
+    </form>
+	<ul class="nav navbar-nav nav-right">
+	   
+	   <li><a href="file:///E:/admin.html"><span class="glyphicon glyphicon-user"></span>ADMIN</a></li>
+	  
+  </div>
+</nav>
+<img src="cool.png"width="100%" height="60%">
+<u><h1 style="text-align:center">BEAUTY WITH TRENDING</h1></u>
+<h2 style="text-align:center">--MOST TRENDING--</h2>
+<h2 style="text-align:center;color:#800000"><a href="https://www.nykaa.com/lakme-makeup-online-sale/c/1852?transaction_id=e819a569d2eecd22e3e6d996276b2140&intcmp=makeup-mega1-sale-page,platinum-section,1,lakme">LAKME kajal</a></h2>
+<h2 style="text-align:center;color:#800000"><a href="https://www.nykaa.com/olay-regenerist-advanced-anti-aging-micro-sculpting-intense-hydration-with-hydra-firming-complex-skin-cream-new-pack/p/245655?productId=245655&pps=2">Anastasia</a></h2>
+<h2 style="text-align:center;color:#800000"><a href="https://www.virtuelabs.com/">Virture</a></h2>
+<h2 style="text-align:center;color:#800000"><a href="https://www.nykaa.com/">NYKA BRAND</a></h2>
+<h2 style="text-align:center;color:#800000"><a href="https://www.mcaffeine.com/collections/all?utm_source=affiliate&utm_medium=partnerships&utm_campaign=trackier_vcommission&utm_term=108990_&click_id=61c3d59ed300bf034363c801">mCaffine</a></h2>
+<h2 style="text-align:center;color:#800000"><a href="https://olaplex.com/">Olaplex</a></h2>
+<div class="container-fluid">
+<div class="row">
+    <div class="col-lg-3">
+	    <div class="img-thumbnail">
+    <img src=" trending2.png" width="80%" >
+      <div class="caption">
+      <p>UOMA BEAUTY-<mark>$300</mark></p>
+    </div>
+	    </div>
+	</div>	
+	
+	<div class="col-lg-3">
+	    <div class="img-thumbnail">
+    <img src="trending3.png" width="80%" >
+      <div class="caption">
+      <p>ANASTASIA BEVERY HILLS-<mark>$4000</mark></p>
+    </div>
+	    </div>
+	</div>
+
+    <div class="col-lg-3">
+	    <div class="img-thumbnail">
+    <img src="trending4.png" width="80%" >
+      <div class="caption">
+      <p>NARS AIR MATTEE-<mark>$600</mark></p>
+    </div>
+	    </div>
+	</div>	
+	
+	<div class="col-lg-3">
+	    <div class="img-thumbnail">
+    <img src="trending9.png" width="80%" >
+      <div class="caption">
+      <p>BEAUTY STAT COSMETIC-<mark>$500</mark></p>
+    </div>
+	    </div>
+	</div>
+</div>
+</div>	
+<br>
+<img src="trending1.png"width="100%">
+<center><h3>MORE INFO:
+<a href="https://www.whowhatwear.com/trending-beauty-products-at-nordstrom/slide25">TRENDING PRODUCTS</a></center>
+<center>
+<footer style="background-color:black;color:white">
+<div class="demo" style="width:33%">
+<u><h2><b>COSMO TRENDZ</b></h2><br></u>
+<p>"A women's greatest asset is her beauty"
+Never lose an opportunity of seeing anything beautiful,<br>
+for beauty is God's handwriting</p>
+</div>
+<div class="classic" style="width:33%">
+<u><h2>CUSTOMER CARE</h2></u>
+<p>Order cancellation<br>FAQ<br>Terms and conditions
+</p>
+</div>
+<div class="micro" style="width:33%">
+<u><b><h2>CONTACT</h2></b></u>
+<p>Email:support@cosmo trendz.com<br>
+Landline:1800-313-9293<br>
+Ph no:98765432<br>
+Mon - Sat , 9 am to 7 pm</p>
+</div>
+</footer>
+
+
+
+
+
+
+
+</body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</html>
